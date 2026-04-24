@@ -3,3 +3,6 @@ Inertial sensors measure acceleration, rotation, and orientation using devices l
 
 慣性感測器利用加速度計與陀螺儀來測量加速度、旋轉與方向。
 再透過這些感測資料去訓練模型，讓機器學習系統辨識動作模式並進行預測。
+
+Materials: 微控制器簡介(Arduino Pro Mini) ,慣性感測器(MPU6050) , 藍牙無線傳輸模組(HC-05)
+Lab: NSYSU ISMC Lab
